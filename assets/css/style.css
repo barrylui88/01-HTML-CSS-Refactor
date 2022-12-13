@@ -44,7 +44,6 @@ nav div ul li {
     margin-left: 25px;
 }
 
-
 a {
     color: #ffffff;
     text-decoration: none;
@@ -59,7 +58,7 @@ a {
     background-position: center;
 }
 
-/* Content Boxes on Left */
+/* Aside Boxes on Left */
 p {
     font-size: 16px;
 }
@@ -113,6 +112,7 @@ p {
 .benefit-boxes {
     margin-bottom: 32px;
     color: #ffffff;
+    text-align: center;
 }
 
 .benefit-boxes h3 {
