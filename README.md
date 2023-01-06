@@ -9,9 +9,9 @@ This webpage exists as starter code for my first module challenge and intentiona
 Following this task, I've certainly enhanced my skills to both read and understand code as well as being able to identify inconsistencies and appreciate the importance of semantic HTML for the purpose of full accessibility.
 
 ### Useful Links
-[GitHub Repository: HTML-CSS-Refactor](https://github.com/barrylui88/HTML-CSS-Refactor)
+[GitHub Repository: HTML-CSS-Refactor](https://github.com/barrylui88/01-HTML-CSS-Refactor)
 
-[Deployed Page (powered by GitHub Pages)](https://barrylui88.github.io/HTML-CSS-Refactor/)
+[Deployed Page (powered by GitHub Pages)](https://barrylui88.github.io/01-HTML-CSS-Refactor/)
 
 ## Installation
 
